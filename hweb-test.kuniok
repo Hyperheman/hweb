@@ -1,0 +1,6 @@
+(h1)This is a Heading 1
+(tex)This is some normal text
+(h1-c)This is a centered Heading 1
+(tex-c)This is some centered normal text
+(a-c)Click here to open Google-https://www.google.com
+(br)2
